@@ -6,8 +6,8 @@ Full Stack Development
 **Travlr Getaways** is a full stack travel booking web application built using the **MEAN stack** (*MongoDB, Express, Angular, Node.js*).
 
 The application provides:
-- A **customer-facing booking platform** for browsing and managing trips  
-- A **secure admin dashboard (SPA)** for managing trips and customer data  
+- A customer-facing booking platform for browsing and managing trips  
+- A secure admin dashboard (SPA) for managing trips and customer data  
 
 ---
 
@@ -16,12 +16,12 @@ The application provides:
 ### Frontend
 
 #### Customer-Facing Application
-- Built with **Express**, **Handlebars templates**, and **JavaScript**
-- Follows a **multi-page application (MPA)** structure
+- Built with Express, Handlebars templates, and JavaScript
+- Follows a multi-page application (MPA) structure
 - Delivers dynamic content while maintaining a traditional browsing experience  
 
 #### Admin Dashboard
-- Built as a **Single Page Application (SPA)** using **Angular**
+- Built as a Single Page Application (SPA) using Angular
 - Supports:
   - Dynamic UI updates  
   - Reusable components  
@@ -44,7 +44,7 @@ The application provides:
 ## Functionality
 
 ### JSON vs. JavaScript
-- **JSON (JavaScript Object Notation)** is used for data exchange between the frontend and backend  
+- JSON (JavaScript Object Notation) is used for data exchange between the frontend and backend  
 - Enables seamless communication between:
   - Angular SPA  
   - RESTful API  
@@ -71,7 +71,7 @@ The application provides:
 ## Testing
 
 ### API Testing
-- Used **Postman** to test:
+- Used Postman to test:
   - `GET`
   - `POST`
   - `PUT`
@@ -82,7 +82,7 @@ The application provides:
 ---
 
 ### Security Testing
-- Implemented **JWT (JSON Web Token) authentication**
+- Implemented JWT (JSON Web Token) authentication
 
 - Secured protected routes by:
   - Including tokens in request headers  
@@ -98,13 +98,13 @@ The application provides:
 
 ## Reflection
 
-This project provided hands-on experience with **full stack web development using the MEAN stack**.
+This project provided hands-on experience with full stack web development using the MEAN stack.
 
 ### Key Skills Developed
 - Designing web application architecture  
-- Building both **MPA and SPA interfaces**  
-- Integrating a **NoSQL database**  
-- Implementing **authentication and security protocols**  
+- Building both MPA and SPA interfaces  
+- Integrating a NoSQL database  
+- Implementing authentication and security protocols 
 - Writing modular, maintainable code  
 - Testing APIs and debugging full stack interactions  
 
